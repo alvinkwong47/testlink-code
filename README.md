@@ -1,4 +1,6 @@
 # TestLink 1.9.20 Raijin - Read me
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falvinkwong47%2Ftestlink-code.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falvinkwong47%2Ftestlink-code?ref=badge_shield)
+
 
 [![](https://codescene.io/projects/5570/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5570/jobs/latest-successful/results)
 
@@ -740,3 +742,7 @@ BEFORE the commit ID. => then Nike => Just DO IT
 [7817]: http://mantis.testlink.org/view.php?id=7817
 [gmail]: mailto:testlink.forum@gmail.com
 [tjp]: http://sourceforge.jp/projects/testlinkjp/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falvinkwong47%2Ftestlink-code.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falvinkwong47%2Ftestlink-code?ref=badge_large)
